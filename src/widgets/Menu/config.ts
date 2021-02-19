@@ -74,10 +74,7 @@ export const socials = [
         label: "English",
         href: "https://t.me/roboswap",
       }
-<<<<<<< HEAD
-=======
     ],
->>>>>>> 3f58be2c320c9ea7f36046ab623d27b97680719a
   },
   {
     label: "Twitter",
