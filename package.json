@@ -1,6 +1,6 @@
 {
-  "name": "@roboswap/uikit",
-  "version": "0.10.2",
+  "name": "@roboswap-libs/uikit",
+  "version": "1.0.2",
   "description": "Set of UI components for pancake projects",
   "main": "dist/index.cjs.js",
   "module": "dist/index.esm.js",
@@ -8,7 +8,7 @@
   "files": [
     "dist"
   ],
-  "repository": "https://github.com/llcool-maks/goose-uikit/",
+  "repository": "https://github.com/llcool-maks/roboswap-uikit",
   "license": "MIT",
   "scripts": {
     "build": "rollup -c && tsc -d --emitDeclarationOnly --declarationDir dist",
